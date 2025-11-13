@@ -1,4 +1,4 @@
-# 🎵 Discord AI Music Bot
+# 🎵 Discord AI Music & Chat Bot
 
 A multifunctional Discord bot built using **Python**, **discord.py**, and **yt-dlp**, capable of:
 - Playing music from YouTube & Spotify playlists 🎧  
